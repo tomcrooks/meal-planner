@@ -13,7 +13,7 @@ const Navbar = ({ children }) => {
             <div className={styles.item}>
                 <ul className={styles.list}>
                     <li className={styles.listItem}>Meals</li>
-                    <Image src="/img/vercel.svg" alt="some text" width="160px" height="69px"/>
+                    <Image src="/img/logo.png" alt="some text" width="160px" height="60px"/>
                     <li className={styles.listItem}>About</li>
                     {/* <li className={styles.listItem}></li> */}
                 </ul>
